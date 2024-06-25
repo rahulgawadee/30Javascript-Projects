@@ -1,2 +1,0 @@
-# 30Javascript-Projects
-# Calculator
